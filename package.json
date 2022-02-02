@@ -1,0 +1,25 @@
+{
+  "name": "TypeScript-Essential-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funkyblues/TypeScript-Essential-2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funkyblues/TypeScript-Essential-2022/issues"
+  },
+  "homepage": "https://github.com/funkyblues/TypeScript-Essential-2022#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
